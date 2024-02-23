@@ -1,0 +1,7 @@
+"type": "FactoryGitHubConfiguration",
+  "clientId": "string",
+  "clientSecret": {
+    "byoaSecretAkvUrl": "string",
+    "byoaSecretName": "string"
+  },
+  "hostName": "string"
